@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berzeQ
-- 👀 I’m interested in web developing   
-- 🌱 I’m currently learning  MERN stack
-- 💞️ I’m looking to collaborate on full stack development
+- 👀 I’m interested in web development, networking, and cybersecurity  
+- 🌱 I’m currently learning  MERN stack, Networking, and Cybersecurity
+- 💞️ 
 
 
 <!---
